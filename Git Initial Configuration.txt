@@ -1,0 +1,6 @@
+git config --global user.name "Raj-Narayanan-B"
+git config --global user.email "brajnarayanan.@gmail.com"
+git config -l -> This lists all the config we have for git
+
+PAT for airflow(30-days expiration) = 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
+## Added on 24,Feb,2024
